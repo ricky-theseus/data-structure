@@ -1,0 +1,12 @@
+release/Linklist.o
+release/Linkwidget.o
+release/Seqwidget.o
+release/infowidget.o
+release/list.o
+release/main.o
+release/Seqlist.o
+release/mainwindow.o
+release/moc_Linkwidget.o
+release/moc_Seqwidget.o
+release/moc_infowidget.o
+release/moc_mainwindow.o

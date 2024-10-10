@@ -1,0 +1,12 @@
+debug/Linklist.o
+debug/Linkwidget.o
+debug/Seqwidget.o
+debug/infowidget.o
+debug/list.o
+debug/main.o
+debug/Seqlist.o
+debug/mainwindow.o
+debug/moc_Linkwidget.o
+debug/moc_Seqwidget.o
+debug/moc_infowidget.o
+debug/moc_mainwindow.o
